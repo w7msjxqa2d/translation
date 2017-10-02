@@ -1029,5 +1029,44 @@
       "cc_name":"Incorrect cardholder",
       "cc_cvv":"Incorrect cvv"
     }
+  },
+  "change": {
+    "coupone": "I have a coupone",
+    "watchVideo": "Watch video",
+    "seeInstructions": "See istructions",
+    "step1": {
+      "title": "Creating Order",
+      "description": "Description",
+      "header": "Enter payment information",
+      "subheader": "Let us know what you need"
+    },
+    "step2": {
+      "title": "Payment Info",
+      "description": "Description",
+      "header": "Enter your card info",
+      "subheader": "We accept only Visa & Mastercard",
+      "card": {
+        "header": "Where can I find it?",
+        "text": "You can find CVV on the back of your card. It's 3-4 digits long"
+      }
+    },
+    "step3": {
+      "title": "Contact Info",
+      "description": "Description",
+      "header": "Enter your contact info",
+      "subheader": "Let's us know better our clients"
+    },
+    "step4": {
+      "title": "Verification",
+      "description": "Description",
+      "header": "",
+      "subheader": ""
+    },
+    "step5": {
+      "title": "Orders Info",
+      "description": "Description",
+      "header": "",
+      "subheader": ""
+    }
   }
 }
