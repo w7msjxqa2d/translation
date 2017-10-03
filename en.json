@@ -16,7 +16,8 @@
     },
     "payAmount":{
       "title":"Pay amount"
-    }
+    },
+    "check": "Check operation on blockexplorer.net"
   },
   "app":{
     "detect_lang":{
@@ -26,12 +27,7 @@
   },
   "meta":{
     "title":"Buy Cryptocurrency with Credit or Debit card - Indacoin",
-    "description":"Buy and exchange any cryptocurreny instantly Bitcoin, Ethereum, Litecoin, Ripple and 30 other digital currencies for EUR or USD.",
-    "instantly":"Instantly",
-    "in":"in",
-    "card":"With a Credit Or Debit Card",
-    "buy":"Buy",
-    "more":"In More Than 100 Countries Including"
+    "description":"Buy and exchange any cryptocurreny instantly Bitcoin, Ethereum, Litecoin, Ripple and 30 other digital currencies for EUR or USD."
   },
   "fullpage":{
     "header":"BUY CRYPTOCURRENCY INSTANTLY",
@@ -705,9 +701,7 @@
       "name":"Romania"
     },
     "RU":{
-      "name":"Russian Federation",
-      "inName":"Russian Federation",
-      "moreName":"Russian Federation"
+      "name":"Russian Federation"
     },
     "RW":{
       "name":"RWANDA"
@@ -921,13 +915,6 @@
   "exchanger_fields_ok":"Click to buy bitcons!",
   "exchanger_fields_error":"Please, check all the fields",
   "bankRejected":"Transaction was declined by your bank. Please, contact your bank’s customer service and make a new payment with the card",
-  "charts":{
-    "market_cap":"Market capitalization (USD)",
-    "total_bitcoins":"Total BTC",
-    "transaction_fees":"Total fee (BTC)",
-    "n_transactions":"Number of transactions",
-    "n_transactions_excluding_popular":"Number of transactions"
-  },
   "wrongAuthCode":"You have entered a wrong code from your bank statement. Please check your online banking or call the bank to find the right one",
   "wrongSMSAuthCode":"You have entered a wrong code from your phone call",
   "getCouponInfo":{
@@ -940,16 +927,7 @@
   "exchange_go":"– GO",
   "exchange_buy_btc":"– BUY BITCOINS NOW",
   "month":"Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec",
-  "loyalty":{
-    "discount":"discount",
-    "newbie":"NEWBIE (0% discount)",
-    "bronze":"BRONZE (1% discount)",
-    "toBronze":" to BRONZE (1% discount)",
-    "silver":"SILVER (2% discount)",
-    "toSilver":" to SILVER (2% discount)",
-    "gold":"GOLD (5% discount)",
-    "toGold":" to GOLD (5% discount)"
-  },
+  "discount":"discount",
   "cash":{
     "equivalent":"equivalent to",
     "card3DS":"We accept only 3D-Secured bankcards (Verified by Visa or MasterCard SecureCode)",
@@ -1036,13 +1014,11 @@
     "seeInstructions": "See istructions",
     "step1": {
       "title": "Creating Order",
-      "description": "Description",
       "header": "Enter payment information",
       "subheader": "Let us know what you need"
     },
     "step2": {
       "title": "Payment Info",
-      "description": "Description",
       "header": "Enter your card info",
       "subheader": "We accept only Visa & Mastercard",
       "card": {
@@ -1052,21 +1028,23 @@
     },
     "step3": {
       "title": "Contact Info",
-      "description": "Description",
       "header": "Enter your contact info",
       "subheader": "Let's us know better our clients"
     },
     "step4": {
       "title": "Verification",
-      "description": "Description",
-      "header": "",
-      "subheader": ""
+      "header": "Enter your code from payment page",
+      "subheader": "Your payment information"
     },
     "step5": {
-      "title": "Orders Info",
-      "description": "Description",
-      "header": "",
-      "subheader": ""
+      "title": "Orders Info"
+    },
+    "step6": {
+      "title": "Video record",
+      "header": "Show your passport and your face",
+      "description": "Let us be sure that you are not a scam",
+      "startRecord": "Press Record button down below",
+      "stopRecord": "Press stop when you're done"
     }
   }
 }
