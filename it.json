@@ -1,106 +1,106 @@
 {
   "language-select":{
     "language":{
-      "en":"Английский",
-      "ru":"Русский",
-      "es":"Испанский",
-      "tr":"Турецкий",
-      "dz":"Арабский"
-    } 
+      "en":"English",
+      "ru":"Russian",
+      "es":"Spanish",
+      "tr":"Turkish",
+      "dz":"Arabic"
+    }
   },
-  "exchangeOrder": {
-    "order": "Заказ",
-    "status": {
-      "title": "Статус",
-      "completed": "Заявка исполнена"
+  "exchangeOrder":{
+    "order":"Exchange order",
+    "status":{
+      "title":"Status",
+      "completed":"Completed"
     },
-    "payAmount": {
-      "title": "Оплачено"
+    "payAmount":{
+      "title":"Pay amount"
     },
-    "check": "Проверить статус операции на blockexplorer.net"
+    "check": "Check operation on blockexplorer.net"
   },
   "app":{
     "detect_lang":{
-      "title":"Определение Вашего языка",
-      "sub":"Пожалуйста, подождите..."
+      "title":"Detecting your language",
+      "sub":"Please wait..."
     }
   },
   "meta":{
-    "title":"Покупайте криптовалюту кредитной или дебетовой картой - Indacoin",
-    "description":""
+    "title":"Buy Cryptocurrency with Credit or Debit card - Indacoin",
+    "description":"Buy and exchange any cryptocurreny instantly Bitcoin, Ethereum, Litecoin, Ripple and 30 other digital currencies for EUR or USD."
   },
-  "fullpage": {
-    "header": "ПОКУПАЙТЕ КРИПТОВАЛЮТУ МОМЕНТАЛЬНО",
-    "sub": "Indacoin — это простой способ купить биткоины, а также другие 30 крипто-валют при помощи Visa & Mastercard",
-    "observe": "Узнайте о доступных крипто-валютах ниже"
+  "fullpage":{
+    "header":"BUY CRYPTOCURRENCY INSTANTLY",
+    "sub":"Indacoin is the easiest way to buy bitcoins and 30 other cryptocurrencies with Visa & Mastercard",
+    "observe":"Observe all currencies below"
   },
-  "navbar": {
-    "main":"Главная страница",
-    "btc": "Купить Bitcoin",
-    "eth": "Купить Ethereum",
-    "affiliate": "Партнерство",
-    "news": "Новости",
-    "faq": "FAQ",
-    "login": "Войти / Зарегистрироваться"
+  "navbar":{
+    "main":"Main page",
+    "btc":"Buy Bitcoin",
+    "eth":"Buy Ethereum",
+    "affiliate":"Affiliate",
+    "news":"News",
+    "faq":"FAQ",
+    "login":"Login / Signup"
   },
-  "currency-table": {
-    "rank": "Ранк",
-    "coin": "Валюта",
-    "market": "Рыночная стоимость",
-    "price": "Цена",
-    "volume": "Объем 24h",
-    "change": "Рост 24h"
+  "currency-table":{
+    "rank":"Rank",
+    "coin":"Coin",
+    "market":"Market Cap",
+    "price":"Price",
+    "volume":"Volume 24h",
+    "change":"Change 24h"
   },
   "buy-blocks":{
-    "give":"Вы отдаете",
-    "get":"Вы получаете"
+    "give":"You pay",
+    "get":"You Get"
   },
-  "exchange-form": {
-    "title": "Моментальная покупка криптовалюты",
-    "submit": "Обменять",
-    "give": "Вы даете",
-    "get": "Вы получаете"
+  "exchange-form":{
+    "title":"Buy cryptocurrency instantly",
+    "submit":"Exchange",
+    "give":"You pay",
+    "get":"You get"
   },
-  "pagination": {
-    "page": "Страница",
-    "next": "Вперед",
-    "prev": "Назад",
-    "first": "В начало"
+  "pagination":{
+    "page":"Page",
+    "next":"Show more",
+    "prev":"Previous",
+    "first":"First"
   },
   "sidebar":{
     "accept":{
-      "title":"Мы ринимаем кредитные карты",
-      "button":"Купить криптовалюту"
+      "title":"We accept debit cards",
+      "button":"Buy crypto"
     },
     "youtube":{
-      "title":"О нас",
-      "play":"Запустить"
+      "title":"About us",
+      "play":"Play"
     },
     "orders":{
-      "title": "Управление заказами",
-      "order": "Заказ #",
-      "confirm": "Код подтверждения",
-      "check": "Проверить заказ",
-      "new": "Создать новый заказ",
-      "or": "Или"
+      "title":"Orders management",
+      "order":"Order #",
+      "confirm":"Confirm Code",
+      "check":"Check your order",
+      "new":"Create New Order",
+      "or":"or"
     },
     "social":{
-      "title":"Мы в социальных сетях"
+      "title":"We are social"
     }
   },
   "wiki":{
-    "etymology":"Этимология"
+    "etymology":"Etymology"
   },
-  "loading": {
-    "title": "Загрузка",
-    "sub": "Пожалуйста подождите",
-    "text": "Загрузка"
+  "loading":{
+    "title":"Loading",
+    "sub":"Please wait",
+    "text":"Loading"
   },
-  "error": {
-    "title": "Ошибка",
-    "sub": "Что-то пошло не так, не паникуйте",
-    "text": "Мы столкнулись с неизвестно ошибкой и уже работаем над ее исправлением. Пожалуйста возвращайтесь позже.",
-    "home": "Главная"
+  "error":{
+    "title":"Error",
+    "sub":"Something went wrong, dont panic",
+    "text":"We are facing unknown error and trying to fix it. Please come back later.",
+    "home":"Home"
   },
   "features":{
     "title":"What can you do on Indacoin",
@@ -135,7 +135,7 @@
   },
   "footer":{
     "column1":{
-      "title":"Купить",
+      "title":"Buy",
       "link1":"Bitcoin",
       "link2":"Ethereum",
       "link3":"Ripple",
@@ -143,20 +143,20 @@
       "link5":"IOTA"
     },
     "column2":{
-      "title":"Информация",
-      "link1":"О нас",
-      "link2":"Вопросы",
-      "link3":"Правила пользования",
-      "link4":"Инструкции"
+      "title":"Information",
+      "link1":"About us",
+      "link2":"Faq",
+      "link3":"Terms of use",
+      "link4":"Guide"
     },
     "column3":{
-      "title":"Инструменты",
+      "title":"Tools",
       "link1":"API",
-      "link2":"",
-      "link3":"Мобильное приложение"
+      "link2":"Affiliate Program",
+      "link3":"Mobile App"
     },
     "column4":{
-      "title":"Контакты"
+      "title":"Contact"
     }
   },
   "country":{
@@ -895,157 +895,156 @@
     "BTC":"BTC",
     "USD":"USD"
   },
-  "buy":"Купить",
-  "sell":"Продать",
-  "weWillCallYou":"Если вы впервые используете данную карту, вам необходимо будет ввести 2 секретных кода - из вашей банковской выписки и от звонка автоинформатора на ваш телефон.",
+  "buy":"Buy",
+  "sell":"Sell",
+  "weWillCallYou":"If it's the first time you use this card on Indacoin, you will have to enter a 3-digit code, that can be found on your online card statement. If you can't check the statement online, please contact your bank.",
   "exchangerStatuses":{
-        "TimeOut": "Время заявки истекло",
-        "Error": "Произошла ошибка, пожалуйста напишите в службу поддержки support@indacoin.com",
-        "WaitingForAccountCreation": "Ожидание подтверждения создания аккаунта на Indacoin (мы послали вам регистрационное письмо)",
-        "CashinWaiting": "Ваш платеж обрабатывается, это может занять до 3-х минут. Если уже прошло 3 минуты, и вы все еще видите этот статус - это значит, что к сожалению ваш платеж был отклонен. Убедитесь в вашем банке, что вы используете карту с 3D-secure (Verified by Visa или MasterCard SecureCode), что означает ввод секретного кода при каждом платеже в интернете, который обычно приходит на ваш номер вашего телефона.",
-        "BillWaiting": "Ожидание оплаты выставленного счета клиентом",
-        "Processing": "Заявка обрабатывается",
-        "MoneySend": "Средства отправлены",
-        "Completed": "Заявка исполнена",
-        "Verifying": "Верификация",
-        "Declined": "Отклонено",
-        "cardDeclinedNoFull3ds": "Ваша карта отклонена, потому что ваш банк не поддерживает опцию полного 3ds по данной карте, обратитесь в службу поддержки вашего банка",
-        "cardDeclined": "Ваша карта отклонена, если у вас есть вопросы обращайтесь в службу поддержки support@indacoin.com"
+    "TimeOut":"Order timeout",
+    "Error":"Error was occured, please contact Indacoin support support@indacoin.com",
+    "WaitingForAccountCreation":"Waiting for Indacoin account creation (we have sent to you a registration mail)",
+    "CashinWaiting":"Your payment is being processed now, which should take up to 2 minutes. If 2 minutes has passed and you still see this status, unfortunately your payment has been declined. You need to check with your bank that your card does support 3D-Secure (Verified by Visa or Mastercard Securecode), meaning that you always enter a secret code/password tied to the card, when pay over the internet. Sometimes the code could be sent to your mobile phone number.",
+    "BillWaiting":"Awaiting bill to be payed",
+    "Processing":"In progress",
+    "MoneySend":"The funds have been sent",
+    "Completed":"Completed",
+    "Verifying":"Verifying",
+    "Declined":"Declined",
+    "cardDeclinedNoFull3ds":"Declined, because your bank doesn't support full 3ds (only Attempted) option on this card, please contact your bank customer service.",
+    "cardDeclined":"Your card was declined, if you have questions, please contact Indacoin support support@indacoin.com"
   },
-  "exchanger_fields_ok":"Нажмите, чтобы купить биткоины",
-  "exchanger_fields_error":"Ошибка заполнения. Проверьте все поля",
-  "bankRejected":"Транзакция была отклонена вашим банком. Пожалуйста свяжитесь с банком и повторите платеж с карты",
-  "wrongAuthCode":"Вы ввели неправильный код авторизации, пожалуйста обратитесь в службу поддержки support@indacoin.com",
-  "wrongSMSAuthCode":"Вы ввели неправильный код из телефона",
+  "exchanger_fields_ok":"Click to buy bitcons!",
+  "exchanger_fields_error":"Please, check all the fields",
+  "bankRejected":"Transaction was declined by your bank. Please, contact your bank’s customer service and make a new payment with the card",
+  "wrongAuthCode":"You have entered a wrong code from your bank statement. Please check your online banking or call the bank to find the right one",
+  "wrongSMSAuthCode":"You have entered a wrong code from your phone call",
   "getCouponInfo":{
-    "indo":"Данный купон является недопустимым",
-    "exetuted":"Данный купон уже использован",
-    "freeRate":"Активирован купон на скидку"
+    "indo":"It is invalid coupon",
+    "exetuted":"This coupon has already been executed",
+    "freeRate":"OFF Coupon Activated"
   },
   "ip":"Your IP has been temporarily blocked",
-  "priceChanged":"Цена изменилась. Ок? Вы получите ",
-  "exchange_go":"– Обменять",
-  "exchange_buy_btc":"– Купить биткоины",
-  "month":"Янв Фев Мар Апр Май Июн Июл Авг Сен Окт Нояб Дек",
-  "discount":"Cкидка",
+  "priceChanged":"Price changed. Accept? You will get ",
+  "exchange_go":"– GO",
+  "exchange_buy_btc":"– BUY BITCOINS NOW",
+  "month":"Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec",
+  "discount":"discount",
   "cash":{
-    "equivalent":" эквивалентно ",
-    "card3DS":"Мы принимаем к оплате только 3D-Secure карты (Verified by Visa or MasterCard SecureCode)",
+    "equivalent":"equivalent to",
+    "card3DS":"We accept only 3D-Secured bankcards (Verified by Visa or MasterCard SecureCode)",
     "cashIn":{
-      "1": "Банковские карты (USD)",
-      "2": "Платежные терминалы",
-      "3": "QIWI",
-      "4": "Башкомснаббанк",
-      "5": "Терминалы Новоплат",
-      "6": "Терминалы Элекснет",
-      "7": "Банковские карты (USD)",
-      "8": "Альфа-клик",
-      "9": "Международный банк. перевод",
-      "10": "Bitcoin",
-      "12": "Litecoin",
-      "13": "Astropay",
-      "15": "QIWI",
-      "16": "Банковские карты (USD)",
-      "17": "Pinpay",
-      "18": "Payeer",
-      "19": "Liqpay",
-      "20": "Яндекс.Деньги",
-      "21": "Элекснет",
-      "22": "Кассира.нет",
-      "23": "Мобил элемент",
-      "24": "Связной",
-      "25": "Евросеть",
-      "26": "PerfectMoney",
-      "27": "Indacoin-внутренний",
-      "28":	"CouponBonus",
-      "29": "Яндекс.Деньги",
-      "30": "OKPay",
-      "31": "Партнерская программа",
-      "33": "Payza",
-      "35": "BTC-E код",
-      "36": "Банковские карты (USD)",
-      "37": "Банковские карты (USD)",
-      "39": "Международный банковский перевод",
-      "40": "Яндекс.Деньги",
-      "42": "QIWI(Ручное)",
-      "43": "UnionPay",
-      "44": "QIWI(Автоматическое)",
-      "45": "Оплата со счета телефона",
-      "49": "LibrexCoin",
-      "50": "Банковские карты (EURO)",
-      "51": "QIWI(Автоматическое)",
-      "52": "Оплата со счета телефона",
-      "53": "Ethereum"
+      "1":"Credit/Debit cards",
+      "2":"Russian pay terminals",
+      "3":"QIWI",
+      "4":"Bashkomsnabbank",
+      "5":"Novoplat terminals",
+      "6":"Elexnet terminals",
+      "7":"Credit/Debit cards (USD)",
+      "8":"Alfa-click",
+      "9":"Wire transfer",
+      "10":"Bitcoin",
+      "12":"Litecoin",
+      "13":"Astropay",
+      "15":"QIWI",
+      "16":"Credit/Debit cards (USD)",
+      "17":"Pinpay",
+      "18":"Payeer",
+      "19":"Liqpay",
+      "20":"Yandex.Money",
+      "21":"Elexnet",
+      "22":"Kassira.net",
+      "23":"Mobil element",
+      "24":"Svyaznoy",
+      "25":"Euroset",
+      "26":"PerfectMoney",
+      "27":"IndacoinInternal",
+      "28":"CouponBonus",
+      "29":"Yandex.Money",
+      "30":"OKPay",
+      "31":"Referral",
+      "33":"Payza",
+      "35":"BTC-E code",
+      "36":"Credit/Debit cards (USD)",
+      "37":"Credit/Debit cards (USD)",
+      "39":"Wire transfer",
+      "40":"Yandex.Money",
+      "42":"QIWI(Handmade)",
+      "43":"UnionPay",
+      "44":"QIWI(Automatic)",
+      "45":"Mobile commerce(Russia only)",
+      "49":"LibrexCoin",
+      "50":"Credit/Debit cards (EUR)",
+      "51":"QIWI(Automatic)",
+      "53":"Ethereum"
     },
     "tip":{
-      "country": "Недопустимая страна",
-      "alfaclick": "Недопустимый логин",
-      "pan": "Недопустимый номер карты",
-      "cardholdername": "Недопустимые данные",
-      "fio": "Недопустимые данные",
-      "bday": "Неправильная дата рождения",
-      "city": "Недопустимые данные",
-      "address": "Недопустимый адрес",
-      "ypurseid": "Недопустимый номер кошелька",
-      "wpurseid": "Недопустимый номер кошелька",
-      "pmpurseid": "Недопустимый номер аккаунта",
-      "payeer": "Недопустимый номер аккаунта",
-      "okpayid": "Недопустимый номер кошелька",
-      "purse": "Недопустимый номер кошелька",
-      "phone": "Недопустимый телефон",
-      "btcaddress": "Недопустимый адрес",
-      "ltcaddress": "Недопустимый адрес",
-      "lxcaddress": "Недопустимый адрес",
-      "ethaddress": "Недопустимый адрес",
-      "properties": "Недопустимые реквизиты",
-      "email": "Недопустимый email",
-      "card_number": "Данная карта не поддерживается проверьте номер",
-      "inc_card_number": "Неверный номер карты",
-      "inn": "Некорректный номер",
-      "poms": "Некорректный номер",
-      "snils": "Некорректный номер",
-      "cc_expr": "Неверная дата",
-      "cc_name": "Неверное имя",
-      "cc_cvv": "Неверный cvv"
+      "country":"Incorrect country",
+      "alfaclick":"Incorrect login",
+      "pan":"Incorrect card number",
+      "cardholdername":"Incorrect cardholder name",
+      "fio":"Example: Ian John Marr",
+      "bday":"Incorrect birthday",
+      "city":"Incorrect city",
+      "address":"Incorrect address",
+      "ypurseid":"Incorrect purse ID",
+      "wpurseid":"Incorrect purse ID",
+      "pmpurseid":"Incorrect purse ID",
+      "purse":"Incorrect purse ID",
+      "phone":"Incorrect phone",
+      "btcaddress":"Incorrect address",
+      "ltcaddress":"Incorrect address",
+      "lxcaddress":"Incorrect address",
+      "ethaddress":"Incorrect address",
+      "properties":"Bad properties",
+      "payeer":"Incorrect purse ID",
+      "okpayid":"Incorrect wallet ID",
+      "email":"Incorrect email address",
+      "card_number":"This type of cards don't support check the number",
+      "inc_card_number":"Incorrect card number",
+      "inn":"Incorrect number",
+      "poms":"Incorrect number",
+      "snils":"Incorrect number",
+      "cc_expr":"Incorrect date",
+      "cc_name":"Incorrect cardholder",
+      "cc_cvv":"Incorrect cvv"
     }
   },
   "change": {
-    "coupone": "У меня есть купон",
-    "watchVideo": "Посмотреть видео",
-    "seeInstructions": "Помошь",
+    "coupone": "I have a coupone",
+    "watchVideo": "Watch video",
+    "seeInstructions": "See istructions",
     "step1": {
-      "title": "Создание заказа",
-      "header": "Введите платежную информацию",
-      "subheader": "Позвольте нам узнать, что Вы желаете приобрести"
+      "title": "Creating Order",
+      "header": "Enter payment information",
+      "subheader": "Let us know what you need"
     },
     "step2": {
-      "title": "Платежная информация",
-      "header": "Введите информацию о Вашей кредитной карте",
-      "subheader": "Мы принимаем только Visa и Mastercard",
+      "title": "Payment Info",
+      "header": "Enter your card info",
+      "subheader": "We accept only Visa & Mastercard",
       "card": {
-        "header": "Где я могу найти этот код?",
-        "text": "Вы можете найти CVV на обратной стороне карты. Этот код состоит из 3-х цифр"
+        "header": "Where can I find it?",
+        "text": "You can find CVV on the back of your card. It's 3-4 digits long"
       }
     },
     "step3": {
-      "title": "Контактная информация",
-      "header": "Введите Вашу контактную информацию",
-      "subheader": "Позвольте нам лучше узнать наших клиентов"
+      "title": "Contact Info",
+      "header": "Enter your contact info",
+      "subheader": "Let's us know better our clients"
     },
     "step4": {
-      "title": "Верификация",
-      "header": "Введите Ваш код со страницы оплаты",
-      "subheader": "Ваша платежная информация"
+      "title": "Verification",
+      "header": "Enter your code from payment page",
+      "subheader": "Your payment information"
     },
     "step5": {
-      "title": "Информация по заказу"
+      "title": "Orders Info"
     },
     "step6": {
-      "title": "Запись видео",
-      "header": "Покажите Ваш паспорт и Ваше лицо",
-      "description": "Покажите нам, что с вами можно иметь дело",
-      "startRecord": "Нажмите на Старт кнопку чтобы начать запись",
-      "stopRecord": "Нажмите Стоп для завершения записи"
+      "title": "Video record",
+      "header": "Show your passport and your face",
+      "description": "Let us be sure that you are not a scam",
+      "startRecord": "Press Record button down below",
+      "stopRecord": "Press stop when you're done"
     }
   }
 }
