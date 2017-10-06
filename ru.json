@@ -27,7 +27,9 @@
   },
   "meta":{
     "title":"Покупайте криптовалюту кредитной или дебетовой картой - Indacoin",
-    "description":""
+    "description":"Buy and exchange any cryptocurreny instantly Bitcoin, Ethereum, Litecoin, Ripple and 30 other digital currencies for EUR or USD.",
+    "buy": "Buy [cryptocurrency] with a credit or debit card",
+    "more": "In more than 100 countries including [Russian Federation]"
   },
   "fullpage": {
     "header": "ПОКУПАЙТЕ КРИПТОВАЛЮТУ МОМЕНТАЛЬНО",
